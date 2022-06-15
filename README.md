@@ -1,0 +1,1 @@
+# npics-asset
